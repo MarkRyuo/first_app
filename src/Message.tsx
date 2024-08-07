@@ -3,7 +3,7 @@
 // * PascalCase
 function Message() {
     //* JSX: Javascript XML 
-    let name = 'Hello World' ;
+    let name = 'Hello'
 
     return <h1>Hello, World</h1> ;
 }
