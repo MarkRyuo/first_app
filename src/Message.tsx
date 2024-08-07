@@ -3,8 +3,9 @@
 // * PascalCase
 function Message() {
     //* JSX: Javascript XML 
-    const name = 'moda'
-    return <h1>Hello, World</h1> ;
+    const name = 'moda' ;
+
+    return <h1>Hello, {name}</h1> ;
 }
 
 
