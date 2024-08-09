@@ -7,7 +7,7 @@ function Message() {
     if(name)
         return <h1>Hello, {name}</h1> ;
     else 
-        return <h1>This is Empty</h1>
+        return <h1>This is Empty</h1> ;
 }
 
 
