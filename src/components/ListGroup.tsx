@@ -5,7 +5,7 @@ function ListGroup() {
     return (
     <Fragment> 
         { 
-        // Fragment for use another element, to comment use curly braces 
+        // Fragment for use another element, to comment use curly braces
         } 
         <h1>This is a List group</h1>
         <ul className="list-group">
