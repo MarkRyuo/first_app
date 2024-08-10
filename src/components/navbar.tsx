@@ -11,8 +11,8 @@ function NavBar() {
                     Bootstrap 
                     </img>
                 </a>
-        </div>
-    </nav>
+            </div>
+        </nav>
     </Fragment>
     ) ; 
 }
