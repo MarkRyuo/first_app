@@ -3,7 +3,7 @@ import { Fragment } from "react/jsx-runtime";
 
 function ListGroup() {
     return (
-    <Fragment> // * Fragment for use another element 
+    <Fragment>  //Fragment for use another element 
         <h1>This is a List group</h1>
         <ul className="list-group">
             <li className="list-group-item">An item</li>
