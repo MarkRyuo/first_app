@@ -4,7 +4,8 @@ import { Fragment } from "react/jsx-runtime";
 function ListGroup() {
     return (
     <Fragment> 
-        { // Fragment for use another element 
+        { 
+        // Fragment for use another element, to comment use curly braces 
         } 
         <h1>This is a List group</h1>
         <ul className="list-group">
