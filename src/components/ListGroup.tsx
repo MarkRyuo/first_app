@@ -1,6 +1,5 @@
 import { Fragment } from "react/jsx-runtime";
 
-
 function ListGroup() {
     const items = [
         'Batangas',
@@ -17,7 +16,7 @@ function ListGroup() {
         } 
         <h1>This is a List group</h1>
         <ul className="list-group">
-           {items.map(item => <li>{item}</li>)}
+            {items.map(item => <li>{item}</li>)}
         </ul>
     </Fragment>
     );
