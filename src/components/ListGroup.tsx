@@ -20,7 +20,7 @@ function ListGroup() {
                 {items.map((item) => (
                 <li>{item}</li>
                 ))}
-          </ul>
+            </ul>
         </div>
       </Fragment>
     );
