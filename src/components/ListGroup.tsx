@@ -22,7 +22,7 @@ function ListGroup() {
                 ))}
             </ul>
         </div>
-      </Fragment>
+        </Fragment>
     );
 }
 
