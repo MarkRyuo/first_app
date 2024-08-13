@@ -9,7 +9,6 @@ function ListGroup() {
         'Quezon'
     ] ;
 
-    items.map(item => <li>{item}</li>)
 
     return (
     <Fragment> 
