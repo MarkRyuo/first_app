@@ -14,7 +14,7 @@ function ListGroup() {
         {
           // Fragment for use another element, to comment use curly braces
         }
-        <div>
+        <div className="container-md">
             <h1>This is a List group</h1>
             <ul className="list-group">
                 {items.map((item) => (
