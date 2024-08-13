@@ -2,6 +2,15 @@ import { Fragment } from "react/jsx-runtime";
 
 
 function ListGroup() {
+    const items = [
+        'Batangas',
+        'Cavite',
+        'Laguna',
+        'Quezon'
+    ] ;
+
+    items.map(item => <li>{item}</li>)
+
     return (
     <Fragment> 
         { 
