@@ -6,7 +6,7 @@ import Log from './components/log';
 
 function App(){
   return <div>
-    <Log
+    <Log/>
     <NavBar/>
     <HomeScreen/>
     <Message/>
