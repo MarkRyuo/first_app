@@ -22,10 +22,10 @@ function Log() {
             <div class="form-text" id="basic-addon4">Example help text goes outside the input group.</div>
             </div>
 
-            <div class="input-group mb-3">
-            <span class="input-group-text">$</span>
-            <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
-            <span class="input-group-text">.00</span>
+            <div className="input-group mb-3">
+            <span className="input-group-text">$</span>
+            <input type="text" className="form-control" aria-label="Amount (to the nearest dollar)"/>
+            <span className="input-group-text">.00</span>
             </div>
 
             <div className="input-group mb-3">
