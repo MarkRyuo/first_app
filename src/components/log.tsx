@@ -35,7 +35,7 @@ function Log() {
             </div>
 
             <div class="input-group">
-            <span class="input-group-text">With textarea</span>
+            <span className="input-group-text">With textarea</span>
             <textarea className="form-control" aria-label="With textarea"></textarea>
             </div>
         </>
