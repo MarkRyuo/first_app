@@ -3,7 +3,7 @@
 function Log() {
     return (
         <>
-            <div class="input-group mb-3">
+            <div className="input-group mb-3">
                 <span class="input-group-text" id="basic-addon1">@</span>
                 <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
             </div>
@@ -36,7 +36,7 @@ function Log() {
 
             <div class="input-group">
             <span class="input-group-text">With textarea</span>
-            <textarea class="form-control" aria-label="With textarea"></textarea>
+            <textarea className="form-control" aria-label="With textarea"></textarea>
             </div>
         </>
     ) ;
