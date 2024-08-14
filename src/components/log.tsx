@@ -13,19 +13,19 @@ function Log() {
             <span class="input-group-text" id="basic-addon2">@example.com</span>
             </div>
 
-            <div class="mb-3">
-            <label for="basic-url" class="form-label">Your vanity URL</label>
-            <div class="input-group">
-                <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
-                <input type="text" className="form-control" id="basic-url" aria-describedby="basic-addon3 basic-addon4"/>
-            </div>
-            <div className="form-text" id="basic-addon4">Example help text goes outside the input group.</div>
+            <div className="mb-3">
+                <label htmlFor="basic-url" className="form-label">Your vanity URL</label>
+                <div className="input-group">
+                    <span className="input-group-text" id="basic-addon3">https://example.com/users/</span>
+                    <input type="text" className="form-control" id="basic-url" aria-describedby="basic-addon3 basic-addon4"/>
+                </div>
+                <div className="form-text" id="basic-addon4">Example help text goes outside the input group.</div>
             </div>
 
             <div className="input-group mb-3">
-            <span className="input-group-text">$</span>
-            <input type="text" className="form-control" aria-label="Amount (to the nearest dollar)"/>
-            <span className="input-group-text">.00</span>
+                <span className="input-group-text">$</span>
+                <input type="text" className="form-control" aria-label="Amount (to the nearest dollar)"/>
+                <span className="input-group-text">.00</span>
             </div>
 
             <div className="input-group mb-3">
