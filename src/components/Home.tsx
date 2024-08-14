@@ -6,8 +6,9 @@ function HomeScreen() {
         "Leomar",
         "Neil",
         "Laud"
-    ]
-
+    ] ;
+    
+    const Owner = "Moda" ;
     
     return (
         <> {
@@ -17,6 +18,7 @@ function HomeScreen() {
                 <nav className="container-sm">
                     <button type="button" className="btn btn-success">Watch Video</button>
                     {NAMES.map(names => <p className="bg-warning">{names}</p>) }
+                    <h1>{Owner}</h1>
                 </nav>
             </div>
         </>
