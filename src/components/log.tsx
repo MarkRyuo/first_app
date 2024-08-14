@@ -29,9 +29,9 @@ function Log() {
             </div>
 
             <div className="input-group mb-3">
-            <input type="text" className="form-control" placeholder="Username" aria-label="Username"/>
-            <span className="input-group-text">@</span>
-            <input type="text" className="form-control" placeholder="Server" aria-label="Server"/>
+                <input type="text" className="form-control" placeholder="Username" aria-label="Username"/>
+                <span className="input-group-text">@</span>
+                <input type="text" className="form-control" placeholder="Server" aria-label="Server"/>
             </div>
 
             <div className="input-group">
