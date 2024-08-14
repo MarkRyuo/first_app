@@ -5,7 +5,7 @@ function HomeScreen() {
         <>
             <div className="container-md">
                 <nav className="container-sm">
-                    <button type="button" className="button"></button>
+                    <button type="button" className="button">Watch</button>
                 </nav>
             </div>
         </>
