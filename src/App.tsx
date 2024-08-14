@@ -1,9 +1,10 @@
 // import Message from './Message'
-import ListGroup from "./components/ListGroup";
+import HomeScreen from "./components/Home";
+// import ListGroup from "./components/ListGroup";
 // import NavBar from "./components/navbar";
 
 function App(){
-  return <div><ListGroup/></div>
+  return <div><HomeScreen/></div>
 }
 
 export default App ;
