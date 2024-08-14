@@ -2,7 +2,10 @@
 
 function HomeScreen() {
     const NAMES = [
-        "Jhon Mark"
+        "Jhon Mark",
+        "Leomar",
+        "Neil",
+        "Laud"
     ]
 
     return (
