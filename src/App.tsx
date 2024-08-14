@@ -6,8 +6,8 @@ import Log from './components/log';
 
 function App(){
   return <div>
-    <Log/>
     <NavBar/>
+    <Log/>
     <HomeScreen/>
     <Message/>
     <ListGroup/>
