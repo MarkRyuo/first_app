@@ -1,7 +1,7 @@
 function Log() {
   return (
     <>
-      <div className="row g-0 text-center">
+      <div className="row g-0 text-center containe-lg">
         {
           // * Explanation: breakpoint for small devices is col-sm, the breakpoint for desktop is col-md        
         }
