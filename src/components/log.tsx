@@ -4,7 +4,7 @@ function Log() {
       <div className="container-lg">
 
         <div className="grid">
-            <div className=""></div>
+          <div className="g.col-6">g.col-6</div>
         </div>
 
         <div className="input-group mb-3">
