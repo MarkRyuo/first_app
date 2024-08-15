@@ -7,3 +7,4 @@
 
 
 # Day 2 
+  - Basics of Bootstrap 
