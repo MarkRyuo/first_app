@@ -5,9 +5,9 @@ function Log() {
         {
           // * Explanation: breakpoint for small devices is col-sm, the breakpoint for desktop is col-md        
         }
-        <div className="col-sm-2 col-md-2 col-lg-8">.col-sm-3 .col-md-2</div> 
-        <div className="col-sm-6 col-md-8 col-lg-2">.col-sm-6 .col-md-8</div>
-        <div className="col-sm-2 col-md-2">.col-sm-3 .col-md-2</div>
+        <div className="col-sm-2 col-md-2 col-lg-2">.col-sm-3 .col-md-2</div> 
+        <div className="col-sm-6 col-md-8 col-lg-8">.col-sm-6 .col-md-8</div>
+        <div className="col-sm-2 col-md-2 col-lg-2">.col-sm-3 .col-md-2</div>
       </div>
 
       <div className="container-lg">
