@@ -1,9 +1,16 @@
 function Log() {
   return (
     <>
-      <div className="container-lg">
+      <div className="row g-0 text-center">
+        <div class="col-sm-6 col-md-8">.col-sm-6 .col-md-8</div>
+        <div class="col-6 col-md-4">.col-6 .col-md-4</div>
+      </div>
 
+      <div className="container-lg">
         <div className="grid text-center">
+          <div className="col-sm-4">
+            <div>Hello</div>
+          </div>
           <div className="col-sm-4">
             <div className="input-group mb-3">
               <span className="input-group-text" id="basic-addon1">
