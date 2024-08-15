@@ -2,7 +2,7 @@ function Log() {
   return (
     <>
       <div className="row g-0 text-center">
-        <div class="col-sm-6 col-md-8">.col-sm-6 .col-md-8</div>
+        <div className="col-sm-6 col-md-8">.col-sm-6 .col-md-8</div>
         <div class="col-6 col-md-4">.col-6 .col-md-4</div>
       </div>
 
