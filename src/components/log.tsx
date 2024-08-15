@@ -2,9 +2,9 @@ function Log() {
   return (
     <>
       <div className="row g-0 text-center">
-        <div className="col-sm-4 col-md-4">.col-sm-6 .col-md-8</div>
-        <div className="col-sm-6 col-md-8">Center</div>
-        <div className="col-6 col-md-4">.col-6 .col-md-4</div>
+        <div className="col-sm-2 col-md-2">.col-sm-2 .col-md-2</div>
+        <div className="col-sm-6 col-md-8">.col-sm-6 .col-md-8</div>
+        <div className="col-sm-2 col-md-2">.col-6 .col-md-4</div>
       </div>
 
       <div className="container-lg">
