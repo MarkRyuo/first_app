@@ -3,7 +3,7 @@ function Log() {
     <>
       <div className="row g-0 text-center">
         {
-          // * Explanation: 1st breakpoint is col-sm, 2nd breakpoint is col-md       
+          // * Explanation: breakpoint for small devices is col-sm, the breakpoint for desktop is col-md        
         }
         <div className="col-sm-2 col-md-2">.col-sm-3 .col-md-2</div> 
         <div className="col-sm-6 col-md-8">.col-sm-6 .col-md-8</div>
