@@ -2,10 +2,6 @@ function Log() {
   return (
     <>
       <div className="container-lg">
-        
-        <div className="">
-
-        </div>
 
         <div className="grid text-center">
           <div className="col-sm-4">
