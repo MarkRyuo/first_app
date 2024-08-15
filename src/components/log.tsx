@@ -1,7 +1,12 @@
 function Log() {
   return (
     <>
-      <div>
+      <div className="container-lg">
+
+        <div className="grid">
+            <div className=""></div>
+        </div>
+
         <div className="input-group mb-3">
           <span className="input-group-text" id="basic-addon1">
             @
