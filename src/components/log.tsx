@@ -3,8 +3,8 @@ function Log() {
     <>
       <div className="container-lg">
 
-        <div className="grid">
-          <div className="g.col-6">g.col-6</div>
+        <div className="grid text-center">
+          <div className="g.col-8">g.col-6</div>
         </div>
 
         <div className="input-group mb-3">
