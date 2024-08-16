@@ -12,7 +12,7 @@ function HomeScreen() {
     
     return (
         <> {
-            // This is Comment 
+            // * This is Comment 
         }
             <div className="container-lg">
                 <nav className="container-sm">
