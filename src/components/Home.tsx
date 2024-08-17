@@ -1,14 +1,14 @@
 
 
 function HomeScreen() {
-    let NAMES = [
+    let Names = [
         "Jhon Mark",
         "Leomar",
         "Neil",
         "Laud"
     ] ;
 
-    if(NAMES === 0 ) {
+    if(Names === 0 ) {
 
     } 
     
