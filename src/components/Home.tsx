@@ -23,12 +23,12 @@ function HomeScreen() {
             */}
         {Names.length == 0 ? <p>No Value found</p> : null}
 
-        {Names.map((names) => (
-            <p className="bg-warning">{names}</p>
-        ))}
-        </nav>
-        </div>
-    </>
+                {Names.map((names) => (
+                <p className="bg-warning">{names}</p>
+                    ))}
+                </nav>
+            </div>
+        </>
     );
 }
 export default HomeScreen;
