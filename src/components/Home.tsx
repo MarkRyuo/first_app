@@ -14,7 +14,7 @@ function HomeScreen() {
     }
         <div className="container-lg">
         <nav className="container-sm">
-          <button type="button" className="btn btn-success">
+            <button type="button" className="btn btn-success">
             Watch Video
           </button>
           <p className="H1">List</p>
