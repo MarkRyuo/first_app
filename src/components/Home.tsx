@@ -4,7 +4,7 @@
 
 
 function HomeScreen() {
-    let Names = ["Jhon Mark", "Leomar", "Neil", "Laud"];
+    const Names = ["Jhon Mark", "Leomar", "Neil", "Laud"];
 
     // Names = [];
 
