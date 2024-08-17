@@ -8,8 +8,10 @@ function HomeScreen() {
         "Laud"
     ] ;
 
-    if(Names === 0 ) {
-        return <p>No Value found</p>
+    let Names = [] ;
+
+    if(Names.length == 0 ) {
+        return <p>No Value found</p> ;
     } 
     
     const Owner = "Moda" ;
