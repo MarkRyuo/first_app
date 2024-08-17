@@ -28,7 +28,7 @@ function HomeScreen() {
                         */}
                         {Names.length == 0 ? <p>No Value found</p> : null}
 
-                        {Names.map((names) => (<p className="bg-warning">{names}</p>))}
+                        {Names.map((names) => (<p className="list-group-item">{names}</p>))}
                     </nav>
                 </div>
             </>
