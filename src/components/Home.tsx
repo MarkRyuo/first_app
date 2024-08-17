@@ -6,7 +6,7 @@
 function HomeScreen() {
     let Names = ["Jhon Mark", "Leomar", "Neil", "Laud"];
 
-    Names = [];
+    // Names = [];
 
   // if(Names.length == 0 ) {
   //     return <p>No Value found</p> ;
