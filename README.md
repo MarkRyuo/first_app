@@ -8,4 +8,4 @@
 
 # Day 2 
   - Basics of Bootstrap 
-  - Conditional Rendering (Using Ternary Operator) Syntax: condition ? <expression if true> : <expression if false>
+  - Conditional Rendering (Using Ternary Operator) Syntax: condition ? < expression if true> : < expression if false>
