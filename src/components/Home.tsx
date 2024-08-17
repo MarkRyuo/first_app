@@ -9,14 +9,14 @@ function HomeScreen() {
 
   return (
     <>
-    {
+        {
         // * This is Comment
-    }
-        <div className="container-lg">
-        <nav className="container-sm">
-            <button type="button" className="btn btn-success">
-            Watch Video
-            </button>
+        }
+            <div className="container-lg">
+                <nav className="container-sm">
+                    <button type="button" className="btn btn-success">
+                         Watch Video
+                    </button>
         <p className="H1">List</p>
             {/* 
                 condition ? < expression if true> : < expression if false>
