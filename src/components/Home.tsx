@@ -25,7 +25,6 @@ function HomeScreen() {
                     <button type="button" className="btn btn-success">Watch Video</button>
                     {Names.length ==  0? <p>No Value found</p>: null}
                     {Names.map(names => <p className="bg-warning">{names}</p>) }
-                    <h1>{Owner}</h1>
                 </nav>
             </div>
         </>
