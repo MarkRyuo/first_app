@@ -9,11 +9,10 @@ function HomeScreen() {
 
   return (
     <>
-      {" "}
-      {
+    {
         // * This is Comment
-      }
-      <div className="container-lg">
+    }
+        <div className="container-lg">
         <nav className="container-sm">
           <button type="button" className="btn btn-success">
             Watch Video
