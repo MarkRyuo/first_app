@@ -22,6 +22,7 @@ function HomeScreen() {
                         condition ? < expression if true> : < expression if false>
                     */}
           {Names.length == 0 ? <p>No Value found</p> : null}
+          
           {Names.map((names) => (
             <p className="bg-warning">{names}</p>
           ))}
