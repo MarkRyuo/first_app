@@ -2,7 +2,8 @@
 
 # Day 1 Aug 10 2024
   - Fragments 
-  - Rendering List 
+  - Rendering List: 
+    - Syntax: const variableName 
   - Conditional Rendering 
 
 
