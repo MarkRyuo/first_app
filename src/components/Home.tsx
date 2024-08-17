@@ -1,12 +1,16 @@
 
 
 function HomeScreen() {
-    const NAMES = [
+    let NAMES = [
         "Jhon Mark",
         "Leomar",
         "Neil",
         "Laud"
     ] ;
+
+    if(NAMES === 0 ) {
+
+    } 
     
     const Owner = "Moda" ;
     
