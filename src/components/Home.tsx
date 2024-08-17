@@ -1,42 +1,33 @@
-
-
 function HomeScreen() {
-    let Names = [
-        "Jhon Mark",
-        "Leomar",
-        "Neil",
-        "Laud"
-    ] ;
+  let Names = ["Jhon Mark", "Leomar", "Neil", "Laud"];
 
-    Names = [] ;
+  Names = [];
 
-    // if(Names.length == 0 ) {
-    //     return <p>No Value found</p> ;
-    // } 
-    
-    const Owner = "Moda" ;
-    
-    return (
-      <>
-        {" "}
-        {
-          // * This is Comment
-        }
-        <div className="container-lg">
-          <nav className="container-sm">
-            <button type="button" className="btn btn-success">
-              Watch Video
-            </button>
-            {/* 
+  // if(Names.length == 0 ) {
+  //     return <p>No Value found</p> ;
+  // }
+
+  return (
+    <>
+      {" "}
+      {
+        // * This is Comment
+      }
+      <div className="container-lg">
+        <nav className="container-sm">
+          <button type="button" className="btn btn-success">
+            Watch Video
+          </button>
+          {/* 
                         condition ? < expression if true> : < expression if false>
                     */}
-            {Names.length == 0 ? <p>No Value found</p> : null}
-            {Names.map((names) => (
-              <p className="bg-warning">{names}</p>
-            ))}
-          </nav>
-        </div>
-      </>
-    );
+          {Names.length == 0 ? <p>No Value found</p> : null}
+          {Names.map((names) => (
+            <p className="bg-warning">{names}</p>
+          ))}
+        </nav>
+      </div>
+    </>
+  );
 }
-export default HomeScreen ;
+export default HomeScreen;
