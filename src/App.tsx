@@ -6,11 +6,11 @@ import Log from './components/log';
 
 function App(){
   return <div>
-    <NavBar/>
-    <Log/>
+    {/* <NavBar/>
+    <Log/> */}
     <HomeScreen/>
-    <Message/>
-    <ListGroup/>
+    {/* <Message/>
+    <ListGroup/> */}
     </div>
 }
 
