@@ -27,8 +27,8 @@ function HomeScreen() {
             <p className="bg-warning">{names}</p>
         ))}
         </nav>
-      </div>
+        </div>
     </>
-  );
+    );
 }
 export default HomeScreen;
