@@ -3,7 +3,7 @@
 # Day 1 Aug 10 2024
   - Fragments 
   - Rendering List: 
-    - Syntax: const variableName = ["V1", "V2", "V3", "V4"] 
+    - Syntax: const variableName = ["V1", "V2", "V3", "V4"]  
   - Conditional Rendering 
 
 
