@@ -12,8 +12,8 @@ function HomeScreen() {
   //     return <p>No Value found</p> ;
   // }
 
-  const function No_value() => {
-    
+  const Get_Message = () => {
+    return Names.length == 0 ? <p>No Value found</p> : null;
   }
 
     return (
@@ -30,7 +30,9 @@ function HomeScreen() {
                         {/* 
                             condition ? < expression if true> : < expression if false>
                         */}
-                        {Names.length == 0 ? <p>No Value found</p> : null}
+                        {/* {Names.length == 0 ? <p>No Value found</p> : null} */}
+
+                        {Get_Message()}
 
                         {Names.map((names) => (<p className="list-group-item" key={names}>{names}</p>))}
                     </nav>
